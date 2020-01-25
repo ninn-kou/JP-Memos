@@ -8,7 +8,7 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
 
 ## Contents
 
-1. [Japanese Phonology & Kana](https://github.com/flying-yogurt/JP-Memos/blob/master/Notes/Phonology_and_Kana.md)
+1. [Japanese Phonology & Kana](https://github.com/flying-yogurt/JP-Memos/blob/master/Notes/01_Phonology_and_Kana.md)
 
 ## Youtube Videos
 
