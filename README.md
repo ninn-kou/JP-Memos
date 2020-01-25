@@ -9,6 +9,7 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
 ## Contents
 
 1. [Japanese Phonology & Kana](https://github.com/flying-yogurt/JP-Memos/blob/master/Notes/01_Phonology_and_Kana.md)
+2. [Kanji & Furigana](https://github.com/flying-yogurt/JP-Memos/blob/master/Notes/02_Kanji_and_Furigana.md)
 
 ## Youtube Videos
 
@@ -19,7 +20,8 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
 ## Resources
 
 - [Learn Japanese Online](http://j-learning.com)
-- [Minna no Nihongo Shokyu I Dai 2-Han Honsatsu Onsei](https://www.3anet.co.jp/np/en/resrcs/230020/)
+- [Minna No Nihongo – Collection of 50 lessons with vocabulary and grammars](http://wordgrammar.net/minna-no-nihongo-collection-of-50-lessons-with-vocabulary-and-grammars/)
+- [Minna no Nihongo - Shokyu I Dai 2 - Han Honsatsu Onsei](https://www.3anet.co.jp/np/en/resrcs/230020/)
 - [Tae Kim's Guide to Learning Japanese](http://www.guidetojapanese.org/learn/)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
 
