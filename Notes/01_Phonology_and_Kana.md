@@ -10,7 +10,7 @@
 8. [Accent](#08)
 9. [Intonation](#09)
 
-## 仮名（かな）
+## <ruby>仮<rp>（</rp><rt>か</rt><rp>）</rp>名<rp>（</rp><rt>な</rt><rp>）</rp></ruby>
 
 <span id= "01">The Japanese language is basded on **five vowel sounds**: あ, い, う, え and お, which are **used alone** or **attached to either a constant** (e.g. k + a = か) or to a constant plus the semi-vowel 'y' (e.g. k + y + a = きゃ) (the only exception being a special mora, ん, which is not followed by a vowel).</span>
 
@@ -54,13 +54,13 @@
 
 This above table is used to write sounds which are not original Japanese sounds **but are needed for use in loanwords**.
 
-## [促音](https://ja.wikipedia.org/wiki/促音)<sup>JP-Wiki</sup>（そくおん）
+## [<ruby>促<rp>（</rp><rt>そく</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/促音)<sup>JP-Wiki</sup>
 
 <span id= "04">**「っ」is one more mora long and appears before sounds from the「か-row」「さ-row」「な-row」.**</span>
 
 >The sokuon is a Japanese symbol in the form of a small hiragana or katakana tsu. In less formal language it is called chiisai tsu (小さいつ) or chiisana tsu (小さなつ), meaning "small tsu".[1] It serves multiple purposes in Japanese writing.
 
-## [長音](https://ja.wikipedia.org/wiki/長音)<sup>JP-Wiki</sup>（ちょうおん）
+## [<ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/長音)<sup>JP-Wiki</sup>
 
 <span id= "02">The five vowels sounds mentioned earlier（あ、い、う、え、お）constitute short vowels in Japanese, but they can be doubled in length to two moras to form long vowels.</span>
 
@@ -75,7 +75,7 @@ This above table is used to write sounds which are not original Japanese sounds 
 >
 >Some analyses make a distinction between a long vowel and a succession of two identical vowels, citing pairs such as 砂糖屋 satōya 'sugar shop' [satoːja] vs. 里親 satooya 'foster parent' [satooja]. They are usually identical in normal speech, but when enunciated a distinction may be made with a pause or a glottal stop inserted between two identical vowels.
 
-## [撥音](https://ja.wikipedia.org/wiki/ん)<sup>JP-Wiki</sup>（はつおん、はねるおん）
+## [<ruby>撥<rp>（</rp><rt>はつ</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/ん)<sup>JP-Wiki</sup>
 
 <span id= "03">To make it easier to say, it is pronounced **/n/, /m/, /ƞ/** according to the sound that comes after it.</span>
 
