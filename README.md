@@ -10,6 +10,7 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
 
 1. [Japanese Phonology & Kana](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/01_Phonology_and_Kana.md)
 2. [Kanji & Furigana](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/02_Kanji_and_Furigana.md)
+3. [Basic Grammar](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/03_Basic_Grammar.md)
 
 ## Youtube Videos
 
