@@ -1,4 +1,4 @@
-# [Lesson 1](https://www.youtube.com/watch?v=gi2AeYO-g8E&list=PLag_mhJfCJ-18WyYoklCPxIpYbeRgmWLJ&index=2&t=0s)<sup>Youtube</sup>
+# [Lesson 1](https://www.youtube.com/watch?v=gi2AeYO-g8E)<sup>Youtube</sup>
 
 1. ## N<sub>1</sub> は N<sub>2</sub> です
 
