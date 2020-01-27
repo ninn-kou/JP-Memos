@@ -24,3 +24,12 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 6. の substituting for a `noun`
 7. お～
 8. そうですか
+
+## Lesson 3
+
+1. ここ／そこ／あそこ／こちら／そちら／あちら
+2. N は place です
+3. どこ／どちら
+4. N<sub>1</sub> の N<sub>2</sub>
+5. The こ／そ／あ／ど system of demonstratives
+6. お～
