@@ -14,7 +14,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. N<sub>1</sub> の N<sub>2</sub>
 6. ～さん
 
-## Lesson 2
+## [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)
 
 1. これ／それ／あれ
 2. この N／その N／あの N
@@ -23,4 +23,4 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. N<sub>1</sub> の N<sub>2</sub>
 6. の substituting for a `noun`
 7. お～
-8. そうですが
+8. そうですか
