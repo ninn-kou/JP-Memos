@@ -62,7 +62,7 @@
 
 		>あの <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は どなたですか。
 		>
-		>Who is that [person]?
+		>Who is that (person)?
 		>
 		>…… [あの <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は] ミラーさんです。
 		>
