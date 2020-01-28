@@ -30,7 +30,7 @@
 
 	**[Note] The は in では is read わ.**
 
-3. ## N<sub>1</sub> は N<sub>2</sub> ですか (Question)
+3. ## N<sub>1</sub> は N<sub>2</sub> ですか (question)
 
 	- ### Particle か
 
