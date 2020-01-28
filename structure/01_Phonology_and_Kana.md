@@ -16,41 +16,41 @@
 
 | 清音 |       a      |       i       |       u       |       e      |       o      | 拗音 |         ya        |         yu        |         yo        |
 |:----:|:------------:|:-------------:|:-------------:|:------------:|:------------:|------|:-----------------:|:-----------------:|:-----------------:|
-|   a  |  あ　ア<br>a |  い　イ<br>i  |  う　**ウ**<br>u  |  え　**エ**<br>e |  お　オ<br>o |      |                   |                   |                   |
-|   k  | か　カ<br>ka |  **き**　キ<br>ki |  く　**ク**<br>ku | **け**　**ケ**<br>ke | こ　**コ**<br>ko |      | きゃ　キャ<br>kya | きゅ　キュ<br>kyu | きょ　キョ<br>kyo |
-|   s  | さ　サ<br>sa | し　**シ**<br>shi |  す　**ス**<br>su | せ　セ<br>se | **そ**　**ソ**<br>so |      | しゃ　シャ<br>sha | しゅ　シュ<br>shu | しょ　ショ<br>sho |
-|   t  | **た**　**タ**<br>ta | **ち**　チ<br>chi | つ　**ツ**<br>tsu | て　テ<br>te | と　ト<br>to |      | ちゃ　チャ<br>cha | ちゅ　チュ<br>chu | ちょ　チョ<br>cho |
-|   n  | な　**ナ**<br>na |  に　ニ<br>ni |  ぬ　**ヌ**<br>nu | **ね**　**ネ**<br>ne | の　ノ<br>no |      | にゃ　ニャ<br>nya | にゅ　ニュ<br>nyu | にょ　ニョ<br>nyo |
-|   h  | は　ハ<br>ha |  ひ　ヒ<br>hi |  ふ　**フ**<br>fu | へ　ヘ<br>he | **ほ**　ホ<br>ho |      | ひゃ　ヒャ<br>hya | ひゅ　ヒュ<br>hyu | ひょ　ヒョ<br>hyo |
-|   m  | ま　**マ**<br>ma |  み　ミ<br>mi |  **む**　**ム**<br>mu | **め**　メ<br>me | も　モ<br>mo |      | みゃ　ミャ<br>mya | みゅ　ミュ<br>myu | みょ　ミョ<br>myo |
-|   y  | **や**　**ヤ**<br>ya |               |  ゆ　**ユ**<br>yu |              | よ　**ヨ**<br>yo |      |                   |                   |                   |
-|   r  | ら　**ラ**<br>ra |  り　リ<br>ri |  **る**　ル<br>ru | **れ**　**レ**<br>re | **ろ**　**ロ**<br>ro |      | りゃ　リャ<br>rya | りゅ　リュ<br>ryo | りょ　リョ<br>ryu |
-|   w  | **わ**　**ワ**<br>wa |               |               |              |  **を**　**ヲ**<br>o |      |                   |                   |                   |
+|      |  あ　ア<br>a |  い　イ<br>i  |  う　**ウ**<br>u  |  え　**エ**<br>e |  お　オ<br>o |      |                   |                   |                   |
+| **k**| か　カ<br>ka |  **き**　キ<br>ki |  く　**ク**<br>ku | **け**　**ケ**<br>ke | こ　**コ**<br>ko |      | きゃ　キャ<br>kya | きゅ　キュ<br>kyu | きょ　キョ<br>kyo |
+| **s**| さ　サ<br>sa | し　**シ**<br>shi |  す　**ス**<br>su | せ　セ<br>se | **そ**　**ソ**<br>so |      | しゃ　シャ<br>sha | しゅ　シュ<br>shu | しょ　ショ<br>sho |
+| **t**| **た**　**タ**<br>ta | **ち**　チ<br>chi | つ　**ツ**<br>tsu | て　テ<br>te | と　ト<br>to |      | ちゃ　チャ<br>cha | ちゅ　チュ<br>chu | ちょ　チョ<br>cho |
+| **n**| な　**ナ**<br>na |  に　ニ<br>ni |  ぬ　**ヌ**<br>nu | **ね**　**ネ**<br>ne | の　ノ<br>no |      | にゃ　ニャ<br>nya | にゅ　ニュ<br>nyu | にょ　ニョ<br>nyo |
+| **h**| は　ハ<br>ha |  ひ　ヒ<br>hi |  ふ　**フ**<br>fu | へ　ヘ<br>he | **ほ**　ホ<br>ho |      | ひゃ　ヒャ<br>hya | ひゅ　ヒュ<br>hyu | ひょ　ヒョ<br>hyo |
+| **m**| ま　**マ**<br>ma |  み　ミ<br>mi |  **む**　**ム**<br>mu | **め**　メ<br>me | も　モ<br>mo |      | みゃ　ミャ<br>mya | みゅ　ミュ<br>myu | みょ　ミョ<br>myo |
+| **y**| **や**　**ヤ**<br>ya |               |  ゆ　**ユ**<br>yu |              | よ　**ヨ**<br>yo |      |                   |                   |                   |
+| **r**| ら　**ラ**<br>ra |  り　リ<br>ri |  **る**　ル<br>ru | **れ**　**レ**<br>re | **ろ**　**ロ**<br>ro |      | りゃ　リャ<br>rya | りゅ　リュ<br>ryo | りょ　リョ<br>ryu |
+| **w**| **わ**　**ワ**<br>wa |               |               |              |  **を**　**ヲ**<br>o |      |                   |                   |                   |
 |      |  ん　**ン**<br>n |               |               |              |              |      |         っ        |         ゝ        |         ゞ        |
 
 <span id= "05">The sounds represented by using one of the small hiragana letters「ゃ」「ゅ」and「ょ」in combination with a full-sized hiragana letter is called a yo-on (contracted sound). **Although written with two letters, these sounds are only one mora long.**</span>
 
 | 半・濁音 |       a       |       i       |       u       |       e       |       o       | 拗音 |         ya         |         yu         |         yo         |
 |:--------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:----:|:------------------:|:------------------:|:------------------:|
-|     g    |  が　ガ<br>ga |  ぎ　ギ<br>gi |  ぐ　グ<br>gu |  げ　ゲ<br>ge |  ご　ゴ<br>go |      |  ぎゃ　ギャ<br>gya |  ぎゅ　ギュ<br>gyu |  ぎょ　ギョ<br>gyo |
-|     z    |  ざ　ザ<br>za |  じ　ジ<br>ji |  ず　ズ<br>zu |  ぜ　ゼ<br>ze |  ぞ　ゾ<br>zo |      |  じゃ　ジャ<br>ja  |  じゅ　ジュ<br>ju  |  じょ　ジョ<br>jo  |
-|     d    |  だ　ダ<br>da |  ぢ　ヂ<br>ji |  づ　ヅ<br>zu |  で　デ<br>de |  ど　ド<br>do |      |                    |                    |                    |
-|     b    |  ば　バ<br>ba |  び　ビ<br>bi |  ぶ　ブ<br>bu |  べ　べ<br>be |  ぼ　ボ<br>bo |      |  びゃ　ビャ<br>bya |  びゅ　ビュ<br>byu |  びょ　ビョ<br>byo |
-|     p    |  ぱ　パ<br>pa |  ぴ　ピ<br>pi |  ぷ　プ<br>pu |  ぺ　ペ<br>pe |  ぽ　ポ<br>po |      |  ぴゃ　ピャ<br>pya |  ぴゅ　ピュ<br>pyu |  ぴょ　ピョ<br>pyo |
-|    ng    | か゚　カ゚<br>nga | き゚　キ゚<br>ngi | く゚　ク゚<br>ngu | け゚　ケ゚<br>nge | こ゚　コ゚<br>ngo |      | き゚ゃ　キ゚ャ<br>ngya | き゚ゅ　キ゚ュ<br>ngyu | き゚ょ　キ゚ョ<br>ngyo |
+|   **g**  |  が　ガ<br>ga |  ぎ　ギ<br>gi |  ぐ　グ<br>gu |  げ　ゲ<br>ge |  ご　ゴ<br>go |      |  ぎゃ　ギャ<br>gya |  ぎゅ　ギュ<br>gyu |  ぎょ　ギョ<br>gyo |
+|   **z**  |  ざ　ザ<br>za |  じ　ジ<br>ji |  ず　ズ<br>zu |  ぜ　ゼ<br>ze |  ぞ　ゾ<br>zo |      |  じゃ　ジャ<br>ja  |  じゅ　ジュ<br>ju  |  じょ　ジョ<br>jo  |
+|   **d**  |  だ　ダ<br>da |  ぢ　ヂ<br>ji |  づ　ヅ<br>zu |  で　デ<br>de |  ど　ド<br>do |      |                    |                    |                    |
+|   **b**  |  ば　バ<br>ba |  び　ビ<br>bi |  ぶ　ブ<br>bu |  べ　べ<br>be |  ぼ　ボ<br>bo |      |  びゃ　ビャ<br>bya |  びゅ　ビュ<br>byu |  びょ　ビョ<br>byo |
+|   **p**  |  ぱ　パ<br>pa |  ぴ　ピ<br>pi |  ぷ　プ<br>pu |  ぺ　ペ<br>pe |  ぽ　ポ<br>po |      |  ぴゃ　ピャ<br>pya |  ぴゅ　ピュ<br>pyu |  ぴょ　ピョ<br>pyo |
+|  **ng**  | か゚　カ゚<br>nga | き゚　キ゚<br>ngi | く゚　ク゚<br>ngu | け゚　ケ゚<br>nge | こ゚　コ゚<br>ngo |      | き゚ゃ　キ゚ャ<br>ngya | き゚ゅ　キ゚ュ<br>ngyu | き゚ょ　キ゚ョ<br>ngyo |
 
 | Part 1 |      a     |      i     |      u     |      e      |      o     | Part 2 |      a      |      i      |      u      |      e      |      o      |
 |:------:|:----------:|:----------:|:----------:|:-----------:|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|    y   |            |            |            |  イェ<br>ye |            |   ts   | ツァ<br>tsa | ツィ<br>tsa |             | ツェ<br>tse | ツォ<br>tso |
-|    w   |            | ウィ<br>wi |            |  ウェ<br>we | ウォ<br>wo |    f   |  ファ<br>fa |  フィ<br>fi |             |  フェ<br>fe |  フォ<br>fo |
-|    v   | ヴァ<br>va | ヴィ<br>vi |  ヴ<br>vu  |  ヴェ<br>ve | ヴォ<br>vo |   sy   |             |             | シュ<br>syu |             |             |
-|    s   |            | スィ<br>si |            |             |            |   zy   |             |             | ジュ<br>zyu |             |             |
-|    z   |            | ズィ<br>zi |            |             |            |   ty   |             |             | チュ<br>tyu |             |             |
-|   sh   |            |            |            | シェ<br>she |            |   dy   |             |             | ヂュ<br>dyu |             |             |
-|    j   |            |            |            |  ジェ<br>je |            |   fy   |             |             | フュ<br>fyu |             | フョ<br>fyo |
-|   ch   |            |            |            | チェ<br>che |            |   vy   |             |             | ヴュ<br>vyu |             |             |
-|    t   |            | ティ<br>ti | トゥ<br>tu |             |            |   kw   | クァ<br>kwa | クィ<br>kwi |             | クェ<br>kwe | クォ<br>kwo |
-|    d   |            | ディ<br>di | ドゥ<br>du |             |            |   gw   | グァ<br>gwa | グィ<br>gwi |             | グェ<br>gwe | グォ<br>gwo |
+|  **y** |            |            |            |  イェ<br>ye |            | **ts** | ツァ<br>tsa | ツィ<br>tsa |             | ツェ<br>tse | ツォ<br>tso |
+|  **w** |            | ウィ<br>wi |            |  ウェ<br>we | ウォ<br>wo |  **f** |  ファ<br>fa |  フィ<br>fi |             |  フェ<br>fe |  フォ<br>fo |
+|  **v** | ヴァ<br>va | ヴィ<br>vi |  ヴ<br>vu  |  ヴェ<br>ve | ヴォ<br>vo | **sy** |             |             | シュ<br>syu |             |             |
+|  **s** |            | スィ<br>si |            |             |            | **zy** |             |             | ジュ<br>zyu |             |             |
+|  **z** |            | ズィ<br>zi |            |             |            | **ty** |             |             | チュ<br>tyu |             |             |
+| **sh** |            |            |            | シェ<br>she |            | **dy** |             |             | ヂュ<br>dyu |             |             |
+|  **j** |            |            |            |  ジェ<br>je |            | **fy** |             |             | フュ<br>fyu |             | フョ<br>fyo |
+| **ch** |            |            |            | チェ<br>che |            | **vy** |             |             | ヴュ<br>vyu |             |             |
+|  **t** |            | ティ<br>ti | トゥ<br>tu |             |            | **kw** | クァ<br>kwa | クィ<br>kwi |             | クェ<br>kwe | クォ<br>kwo |
+|  **d** |            | ディ<br>di | ドゥ<br>du |             |            | **gw** | グァ<br>gwa | グィ<br>gwi |             | グェ<br>gwe | グォ<br>gwo |
 
 This above table is used to write sounds which are not original Japanese sounds **but are needed for use in loanwords**.
 
