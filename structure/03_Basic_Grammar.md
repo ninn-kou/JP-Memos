@@ -7,29 +7,38 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 
 ## [Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)
 
-1. N<sub>1</sub> は N<sub>2</sub> です
-2. N<sub>1</sub> は N<sub>2</sub> じゃ（では）ありません
-3. N<sub>1</sub> は N<sub>2</sub> ですか (Question)
-4. N も
-5. N<sub>1</sub> の N<sub>2</sub>
-6. ～さん
+1. **N<sub>1</sub>** は **N<sub>2</sub>** です
+2. **N<sub>1</sub>** は **N<sub>2</sub>** じゃ（では）ありません
+3. **N<sub>1</sub>** は **N<sub>2</sub>** ですか (question)
+4. **N** も
+5. **N<sub>1</sub>** の **N<sub>2</sub>**
+6. 〜さん
 
 ## [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)
 
 1. これ／それ／あれ
-2. この N／その N／あの N
+2. この **N**／その **N**／あの **N**
 3. そうです
-4. ～か、～か
-5. N<sub>1</sub> の N<sub>2</sub>
+4. 〜か、〜か
+5. **N<sub>1</sub>** の **N<sub>2</sub>**
 6. の substituting for a `noun`
-7. お～
+7. お〜
 8. そうですか
 
-## Lesson 3
+## [Lesson 3](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_03_Grammar.md)
 
 1. ここ／そこ／あそこ／こちら／そちら／あちら
-2. N は place です
+2. **N** は place です
 3. どこ／どちら
-4. N<sub>1</sub> の N<sub>2</sub>
+4. **N<sub>1</sub>** の **N<sub>2</sub>**
 5. The こ／そ／あ／ど system of demonstratives
-6. お～
+6. お〜
+
+## Lesson 4
+
+1. <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> ー<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ー<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>です
+2. **V** ます／**V** ません／**V** ました／**V** ませんでした
+3. **N**(time)に **V**
+4. **N<sub>1</sub>** から **N<sub>2</sub>** まで
+5. **N<sub>1</sub>** と **N<sub>2</sub>**
+6. 〜ね
