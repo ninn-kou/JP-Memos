@@ -24,7 +24,7 @@
 	>
 	>The telephone is on the second floor.
 
-	><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp>田<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>さんは <ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp>務<rp>（</rp><rt>む</rt><rp>）</rp>所<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>です。
+	><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp>田<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>さんは <ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp>務<rp>（</rp><rt>む</rt><rp>）</rp>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>です。
 	>
 	>Mr.Yamada is in his office.
 
