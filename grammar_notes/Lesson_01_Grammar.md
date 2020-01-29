@@ -4,7 +4,7 @@
 
 	- ### Particle は
 
-		The particle は indicates that the `noun` before it (N<sub>1</sub>) is the topic of the sentence. The speaker forms a sentence by adding は to what he or she wants to talk about, and then makes statements about it.
+		The particle は indicates that the noun before it (**N<sub>1</sub>**) is the topic of the sentence. The speaker forms a sentence by adding は to what he or she wants to talk about, and then makes statements about it.
 
 		><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は マイク・ミラーです。
 		>
@@ -82,7 +82,7 @@
 
 5. ## N<sub>1</sub> の N<sub>2</sub>
 
-	When a `noun` N<sub>1</sub> modifies a following `noun` N<sub>2</sub>, の is used to connect the two `nouns`. In Lesson 1, N<sub>1</sub> is an organization or some kind of group to which N<sub>2</sub> belongs.
+	When a noun **N<sub>1</sub>** modifies a following noun **N<sub>2</sub>**, の is used to connect the two nouns. In Lesson 1, **N<sub>1</sub>** is an organization or some kind of group to which **N<sub>2</sub>** belongs.
 
 	>ミラーさんは IMC の <ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。
 	>
