@@ -2,7 +2,7 @@
 
 1. ## これ／それ／あれ
 
-	これ, それ and あれ are demonstratives and work as `noun`.
+	これ, それ and あれ are demonstratives and work as noun.
 
 	- これ refers to something **near the speaker**.
 	- それ refers to something **near the listener**.
@@ -18,7 +18,7 @@
 
 2. ## この N／その N／あの N
 
-	これ, それ and あれ modify `nouns`.
+	これ, それ and あれ modify nouns.
 
 	>この<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>は わたしのです。
 	>
@@ -30,7 +30,7 @@
 
 3. ## そうです
 
-	In a `noun` sentence, the word そう is often used to answer (in the affirmative) a question requiring an affirmative or negative answer. The expression はい、そうです can be used.
+	In a noun sentence, the word そう is often used to answer (in the affirmative) a question requiring an affirmative or negative answer. The expression はい、そうです can be used.
 
 	>それは <ruby>辞<rp>（</rp><rt>じ</rt><rp>）</rp>書<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>ですか。
 	>
@@ -72,7 +72,7 @@
 
 5. ## N<sub>1</sub> の N<sub>2</sub>
 
-	It was explained in the previous lesson that の is used to connect two `nouns` N<sub>1</sub> and N<sub>2</sub> when N<sub>1</sub> modifies N<sub>2</sub> ([see Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)). The present lesson explains some other uses of の.
+	It was explained in the previous lesson that の is used to connect two nouns **N<sub>1</sub>** and **N<sub>2</sub>** when **N<sub>1</sub>** modifies **N<sub>2</sub>** ([see Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)). The present lesson explains some other uses of の.
 
 	- ### N<sub>1</sub> explains what N<sub>2</sub> is about.
 
@@ -86,9 +86,9 @@
 		>
 		>This is my book.
 
-6. ## の substituting for a `noun`
+6. ## の substituting for a noun
 
-	の can be used instead of a `noun` that has already been mentioned (e.g. instead of かばん in the first example). If placed after the `noun` (as in the first example, where it comes after the `noun` さとうさん), it enables N<sub>2</sub> (かばん) in N<sub>1</sub> の N<sub>2</sub> (さとうさんの かばん) to be omitted. の is used as a replacement for things but not for people.
+	の can be used instead of a noun that has already been mentioned (e.g. instead of かばん in the first example). If placed after the noun (as in the first example, where it comes after the noun さとうさん), it enables **N<sub>2</sub>** (かばん) in **N<sub>1</sub>** の **N<sub>2</sub>** (さとうさんの かばん) to be omitted. の is used as a replacement for things but not for people.
 
 	>あれは だれの かばんですか。
 	>
