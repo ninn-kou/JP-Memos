@@ -72,7 +72,7 @@
 
 5. ## N<sub>1</sub> の N<sub>2</sub>
 
-	It was explained in [Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md) that の is used to connect two `nouns` N<sub>1</sub> and N<sub>2</sub> when N<sub>1</sub> modifies N<sub>2</sub>. The present lesson explains some other uses of の.
+	It was explained in the previous lesson that の is used to connect two `nouns` N<sub>1</sub> and N<sub>2</sub> when N<sub>1</sub> modifies N<sub>2</sub> ([see Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)). The present lesson explains some other uses of の.
 
 	- ### N<sub>1</sub> explains what N<sub>2</sub> is about.
 
