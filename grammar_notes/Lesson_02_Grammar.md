@@ -8,10 +8,10 @@
 	- それ refers to something **near the listener**.
 	- あれ refers to something **distant from both the speaker and listener**.
 
-	>それは <ruby>辞<rp>（</rp><rt>じ</rt><rp>）</rp>書<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>ですか。
+	><p>それは <ruby>辞<rp>（</rp><rt>じ</rt><rp>）</rp>書<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>ですか。
 	>
-	>Is that a dictionary?
-
+	>Is that a dictionary?</p>
+	
 	>これは <ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>の <ruby>傘<rp>（</rp><rt>かさ</rt><rp>）</rp></ruby>ですが。
 	>
 	>Whose umbrella is this?
