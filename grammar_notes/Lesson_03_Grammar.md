@@ -60,7 +60,7 @@
 
 4. ## N<sub>1</sub> の N<sub>2</sub>
 
-	When N<sub>1</sub> is the name of a country/company and N<sub>2</sub> is the name of a product, it means that N<sub>2</sub> is made in/by that country/company. The interrogative どこ is used when asking where or by what company something is made.
+	When **N<sub>1</sub>** is the name of a country/company and **N<sub>2</sub>** is the name of a product, it means that **N<sub>2</sub>** is made in/by that country/company. The interrogative どこ is used when asking where or by what company something is made.
 
 	>これは どこの コンピューターですか。
 
