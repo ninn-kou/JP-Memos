@@ -43,12 +43,23 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. **N<sub>1</sub>** と **N<sub>2</sub>**
 6. 〜ね
 
-## Lesson 5
+## [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md)
 
 1. **N**(place)へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
 2. どこ[へ]も <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きません／<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きせんでした
 3. **N(vehicle)** で <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
-4. **N(person/animal)** ど **V**
+4. **N(person/animal)** と **V**
 5. いつ
 6. 〜よ
 7. そうですね
+
+## Lesson 6
+
+1. **N** を **V(transitive)**
+2. **N** を します
+3. <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>を しますか
+4. なん and なに
+5. **N(place)** で **V**
+6. **V** ませんか
+7. **V** ましょう
+8. 〜か
