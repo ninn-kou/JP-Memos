@@ -28,7 +28,7 @@
 
 	><ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>も <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べません。
 	>
-	>I am not going to eat anything. (See Lesson 6.)
+	>I am not going to eat anything. (See [Lesson 6](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_06_Grammar.md).)
 
 	>だれも <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ませんでした。
 	>
@@ -100,11 +100,11 @@
 
 	><ruby>北海道<rp>（</rp><rt>ほっかいどう</rt><rp>）</rp></ruby>に <ruby>馬<rp>（</rp><rt>うま</rt><rp>）</rp></ruby>が たくさん いますよ。
 	>
-	>There are a lot of horses in Hokkaido, you know. (See Lesson 18.)
+	>There are a lot of horses in Hokkaido, you know. (See [Lesson 18](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_18_Grammar.md).)
 
 	>マリアさん、この アイスクリーム、おいしいですよ。
 	>
-	>Maria, this ice cream is very nice, you know. (See Lesson 19.)
+	>Maria, this ice cream is very nice, you know. (See [Lesson 19](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_19_Grammar.md).)
 
 7. ## そうですね
 
