@@ -14,7 +14,7 @@
 
 	- ### です
 
-		Nouns used with です work as predicates. Besides indicating judgement or assertion, です also shows politeness towards the listener. です inflects when the sentence is negative or in the past tense (see [Lesson 12](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_12_Grammar.md)).
+		Nouns used with です work as predicates. Besides indicating judgement or assertion, です also shows politeness towards the listener. です inflects when the sentence is negative or in the past tense (see [Lesson 12](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_12_Grammar.md)).
 
 		><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は <ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。
 		>
