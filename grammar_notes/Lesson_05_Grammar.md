@@ -1,4 +1,4 @@
-# [Lesson 5](https://www.youtube.com/watch?v=QPOrt1BQm-g)
+# [Lesson 5](https://www.youtube.com/watch?v=QPOrt1BQm-g)<sup>Youtube</sup>
 
 1. ## N(place)へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
 
