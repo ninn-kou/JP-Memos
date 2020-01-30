@@ -76,9 +76,9 @@
 
 	>７<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby><ruby>２日<rp>（</rp><rt>ふつか</rt><rp>）</rp></ruby>に <ruby>日<rp>（</rp><rt>に</rt><rp>）</rp>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>へ <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。
 	>
-	>I come to Japan on the second of July. (See [Lesson 5](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_05_Grammar.md).)
+	>I come to Japan on the second of July. (See [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md).)
 
-	**[Note 1] に is not used with the following kinds of noun expressing time (see [Lesson 5](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_05_Grammar.md)): <ruby>今日<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>、<ruby>明日<rp>（</rp><rt>あした</rt><rp>）</rp></ruby>、<ruby>明後日<rp>（</rp><rt>あさって</rt><rp>）</rp></ruby>、<ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>、<ruby>一昨日<rp>（</rp><rt>おととい</rt><rp>）</rp></ruby>、<ruby>今朝<rp>（</rp><rt>けさ</rt><rp>）</rp></ruby>、<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby>、<ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby>、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>、<ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby>、<ruby>今週<rp>（</rp><rt>こんしゅう</rt><rp>）</rp></ruby>、<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby>、いつ、<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>、<ruby>今月<rp>（</rp><rt>こんげつ</rt><rp>）</rp></ruby>、<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>、<ruby>今年<rp>（</rp><rt>ことし</rt><rp>）</rp></ruby>、<ruby>来年<rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby>、<ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>, etc.**
+	**[Note 1] に is not used with the following kinds of noun expressing time (see [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md)): <ruby>今日<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>、<ruby>明日<rp>（</rp><rt>あした</rt><rp>）</rp></ruby>、<ruby>明後日<rp>（</rp><rt>あさって</rt><rp>）</rp></ruby>、<ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>、<ruby>一昨日<rp>（</rp><rt>おととい</rt><rp>）</rp></ruby>、<ruby>今朝<rp>（</rp><rt>けさ</rt><rp>）</rp></ruby>、<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby>、<ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby>、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>、<ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby>、<ruby>今週<rp>（</rp><rt>こんしゅう</rt><rp>）</rp></ruby>、<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby>、いつ、<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>、<ruby>今月<rp>（</rp><rt>こんげつ</rt><rp>）</rp></ruby>、<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>、<ruby>今年<rp>（</rp><rt>ことし</rt><rp>）</rp></ruby>、<ruby>来年<rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby>、<ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>, etc.**
 
 	>きのう <ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しました。
 	>
@@ -88,7 +88,7 @@
 
 	><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>に <ruby>奈良<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 	>
-	>I am going to Nara on Sunday. (See [Lesson 5](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_05_Grammar.md).)
+	>I am going to Nara on Sunday. (See [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md).)
 
 4. ## N<sub>1</sub> から <sub>2</sub> まで
 
@@ -100,7 +100,7 @@
 
 	><ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp>阪<rp>（</rp><rt>さか</rt><rp>）</rp></ruby>から <ruby>東<rp>（</rp><rt>とう</rt><rp>）</rp>京<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>まで ３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp>間<rp>（</rp><rt>かん</rt><rp>）</rp></ruby> かかります。
 	>
-	>It takes three hours from Osaka to Tokyo. (See [Lesson 11](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_11_Grammar.md).)
+	>It takes three hours from Osaka to Tokyo. (See [Lesson 11](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_11_Grammar.md).)
 
 	から and まで are not always used together.
 
