@@ -78,8 +78,8 @@
 
 	|                                   | こ series | そ series | あ series | ど series     |
 	|-----------------------------------|-----------|-----------|-----------|---------------|
-	| **Thing**                         | これ      | それ      | あれ      | どれ (L.16)   |
-	| **Thing / Person**                | この N    | その N    | あの N    | どの N (L.16) |
+	| **Thing**                         | これ      | それ      | あれ      | どれ ([L.16](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_16_Grammar.md))   |
+	| **Thing / Person**                | この N    | その N    | あの N    | どの N ([L.16](https://github.com/flying-yogurt/JP-Memos/edit/master/grammar_notes/Lesson_16_Grammar.md)) |
 	| **Place**                         | ここ      | そこ      | あそこ    | どこ          |
 	| **Direction /<br>Place (polite)** | こちら    | そちら    | あちら    | どちら        |
 
