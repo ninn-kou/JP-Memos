@@ -57,7 +57,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 
 1. **N** を **V(transitive)**
 2. **N** を します
-3. <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>を しますか
+3. <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を しますか
 4. なん and なに
 5. **N(place)** で **V**
 6. **V** ませんか
