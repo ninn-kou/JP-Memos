@@ -53,7 +53,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 6. 〜よ
 7. そうですね
 
-## Lesson 6
+## [Lesson 6](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_06_Grammar.md)
 
 1. **N** を **V(transitive)**
 2. **N** を します
