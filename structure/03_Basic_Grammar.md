@@ -63,3 +63,12 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 6. **V** ませんか
 7. **V** ましょう
 8. 〜か
+
+## [Lesson 7](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_07_Grammar.md)
+
+1. **N(tool/means)** で **V**
+2. 'Word/Sentence' は 〜<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか
+3. **N<sub>1</sub>(person)** に **N<sub>2</sub>** を あげます, etc.
+4. **N<sub>1</sub>(person)** に **N<sub>2</sub>** を もらいます, etc.
+5. もう **V** ました
+6. Omission of particles
