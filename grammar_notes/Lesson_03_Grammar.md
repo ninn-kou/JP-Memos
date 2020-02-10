@@ -12,7 +12,7 @@
 
 	**[Note] When the speaker regards the listener as sharing his/her rerritory, the place where they both are is designated by ここ. In this situation, そこ indicates a place slightly distant from where they both are, and あそこ some where enen further away.**
 
-2. ## N は place です
+2. ## N<sub>1</sub> は N<sub>2</sub>(place) です
 
 	Using this sentence pattern, you can state where a place, thing or person is.
 
