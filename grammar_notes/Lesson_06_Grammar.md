@@ -154,7 +154,7 @@
 
 8. ## 〜か
 
-	か indicates that the listener has received and accept some new information. It is used in the same way as the か in　そうですか (see [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)).
+	か indicates that the listener has received and accept some new information. It is used in the same way as the か in そうですか (see [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)).
 
 	><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby> <ruby>京<rp>（</rp><rt>きょうく</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。
 	>
