@@ -70,7 +70,7 @@
 
 4. ## なん and なに
 
-	Both なん and なに mean "what".
+	Both なん and なに mean 'what'.
 
 	- ### なん is used in the following cases:
 
@@ -92,7 +92,7 @@
 			>
 			>How are you getting to Tokyo?
 
-			**[Note] なんで is used for asking "Why?" as well as "How?" なにで can be used when the speaker wants to make it clear the he or she is asking "How?"**
+			**[Note] なんで is used for asking 'Why?' as well as 'How?' なにで can be used when the speaker wants to make it clear the he or she is asking "How?"**
 
 			><ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>で <ruby>東<rp>（</rp><rt>とう</rt><rp>）</rp>京<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。
 			>
