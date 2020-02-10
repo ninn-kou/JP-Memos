@@ -56,7 +56,7 @@
 	>
 	>What are you doing on Monday?
 	>
-	>…… <ruby>京<rp>（</rp><rt>きょうく</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
+	>…… <ruby>京<rp>（</rp><rt>きょう</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 	>
 	>…… I am going to Kyoto.
 
@@ -126,7 +126,7 @@
 
 	This expression is used when the speaker wants to invite someone to do something.
 
-	>いっしょに <ruby>京<rp>（</rp><rt>きょうく</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。
+	>いっしょに <ruby>京<rp>（</rp><rt>きょう</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。
 	>
 	>Would you like to come to Kyoto with us?
 	>
@@ -156,7 +156,7 @@
 
 	か indicates that the listener has received and accept some new information. It is used in the same way as the か in そうですか (see [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)).
 
-	><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby> <ruby>京<rp>（</rp><rt>きょうく</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。
+	><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby> <ruby>京<rp>（</rp><rt>きょう</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。
 	>
 	>I went to Kyoto on Sunday.
 	>
