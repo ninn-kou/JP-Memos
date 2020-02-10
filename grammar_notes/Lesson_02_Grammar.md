@@ -26,7 +26,7 @@
 
 	>あの<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は どなたですか。
 	>
-	>Who is that (person)?
+	>Who is that [person]?
 
 3. ## そうです
 
@@ -104,7 +104,7 @@
 	>
 	>…… いいえ、わたしの じゃありません。
 	>
-	>…… No, it isn't (mine).
+	>…… No, it isn't [mine].
 
 	>ミラーさんは IMC の <ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>ですか。
 	>
@@ -118,7 +118,7 @@
 
 7. ## お～
 
-	The prefix お is attached to words when the speaker is speaking politely (e.g. [お]みやげ、[お]さけ).
+	The prefix お is attached to words when the speaker is speaking politely (e.g. ［お］みやげ、［お］さけ).
 
 8. ## そうですか
 
