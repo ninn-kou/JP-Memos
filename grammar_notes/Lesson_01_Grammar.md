@@ -46,7 +46,7 @@
 		>
 		>…… はい、アメリカ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>です。
 		>
-		>…… Yes, he is (an American).
+		>…… Yes, he is [an American].
 
 		>ミラーさんは <ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>ですか。
 		>
@@ -54,7 +54,7 @@
 		>
 		>…… いいえ、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>じゃ ありません。
 		>
-		>…… No, he is not (a teacher).
+		>…… No, he is not [a teacher].
 
 	- ### Question with interrogatives
 
@@ -62,9 +62,9 @@
 
 		>あの <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は どなたですか。
 		>
-		>Who is that (person)?
+		>Who is that [person]?
 		>
-		>…… [あの <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は] ミラーさんです。
+		>…… ［あの <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は］ミラーさんです。
 		>
 		>…… That’s Mr.Miller.
 
