@@ -30,7 +30,7 @@
 		>
 		>give a party
 
-		><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp>儀<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>を します
+		><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>を します
 		>
 		>hold a meeting
 
