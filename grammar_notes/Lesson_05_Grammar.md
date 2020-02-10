@@ -1,10 +1,10 @@
 # [Lesson 5](https://www.youtube.com/watch?v=QPOrt1BQm-g)<sup>Youtube</sup>
 
-1. ## N(place)へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
+1. ## N(place) へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
 
 	When a verb indicates movement to a certain place, the particle へ is put after the place noun to show the direction of the movement.
 
-	><ruby>京<rp>（</rp><rt>きょう</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ 行<rp>（</rp><rt>い</rt><rp>）</rp>きます。
+	><ruby>京<rp>（</rp><rt>きょう</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 	>
 	>I am going to Kyoto.
 
@@ -76,7 +76,7 @@
 	>
 	>…… ３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>に <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。
 	>
-	>…… (I came) on 25th March.
+	>…… [I came] on 25th March.
 
 	>いつ <ruby>広<rp>（</rp><rt>ひろ</rt><rp>）</rp>島<rp>（</rp><rt>しま</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。
 	>
@@ -84,7 +84,7 @@
 	>
 	>…… <ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby> <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 	>
-	>…… (I am going) next week.
+	>…… [I am going] next week.
 
 6. ## 〜よ
 
