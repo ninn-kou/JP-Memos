@@ -87,6 +87,6 @@
 
 	The prefix お is added to things related to the listener or a third party in order to show the speaker’s respect toward that person.
 
-	>[お]<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は どちらですか。
+	>［お］<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は どちらですか。
 	>
 	>What country are you from?
