@@ -160,6 +160,6 @@
 	>
 	>I went to Kyoto on Sunday.
 	>
-	>…… <ruby>京<rp>（</rp><rt>きょうく</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ですか。いいですね。
+	>…… <ruby>京<rp>（</rp><rt>きょう</rt><rp>）</rp>都<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ですか。いいですね。
 	>
 	>…… Kyoto, eh? Great!
