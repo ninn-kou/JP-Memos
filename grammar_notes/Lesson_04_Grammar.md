@@ -13,7 +13,7 @@
 	>
 	>What time is it now?６
 	>
-	>…… ７<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>１０分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>です。
+	>…… ７<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>１０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>です。
 	>
 	>…… It's 7:10.
 
@@ -52,11 +52,11 @@
 	>
 	>…… はい、<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しました。
 	>
-	>…… Yes, I did (study).
+	>…… Yes, I did [study].
 	>
 	>…… いいえ、<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しませんでした。
 	>
-	>…… No, I didn't (study).
+	>…… No, I didn't [study].
 
 	><ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby> <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きますか。
 	>
@@ -64,7 +64,7 @@
 	>
 	>…… ６<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きます。
 	>
-	>…… (I get up at) six o'clock.
+	>…… [I get up at] six o'clock.
 
 3. ## N(time)に V
 
