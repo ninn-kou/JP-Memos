@@ -72,3 +72,14 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 4. **N<sub>1</sub>(person)** に **N<sub>2</sub>** を もらいます, etc.
 5. もう **V** ました
 6. Omission of particles
+
+## [Lesson 8](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_08_Grammar.md)
+
+1. **Adjectives**
+2. **N** は **な -adj**［~な~］です<br>**N** は **い -adj**（〜い）です
+3. **な -adj** な **N**<br>**い -adj**（〜い）**N**
+4. 〜が、〜
+5. とても／あまり
+6. **N** は どうですか
+7. **N<sub>1</sub>** は どんな **N<sub>2</sub>** ですか
+8. そうですね
