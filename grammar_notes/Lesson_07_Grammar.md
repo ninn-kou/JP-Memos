@@ -1,4 +1,4 @@
-# [Lesson 7]()<sup>Youtube</sup>
+# [Lesson 7](https://www.youtube.com/watch?v=O47kv14SxDk)<sup>Youtube</sup>
 
 1. ## N(tool/means) で V
 
