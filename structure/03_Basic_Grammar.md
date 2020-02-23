@@ -83,3 +83,11 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 6. **N** は どうですか
 7. **N<sub>1</sub>** は どんな **N<sub>2</sub>** ですか
 8. そうですね
+
+## [Lesson 9](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_09_Grammar.md)
+
+1. **N** が あります／わかります<br>**N** が <ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きです／<ruby>嫌<rp>（</rp><rt>きら</rt><rp>）</rp></ruby>いです／<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>です／<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>です
+2. どんな **N**
+3. よく／だいたい／たくさん／<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し／あまり／<ruby>全然<rp>（</rp><rt>ぜんぜん</rt><rp>）</rp></ruby>
+4. 〜から、〜
+5. どうして
