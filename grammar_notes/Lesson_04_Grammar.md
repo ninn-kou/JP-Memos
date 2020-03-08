@@ -11,7 +11,7 @@
 
 	><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby><ruby><ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>ですか。
 	>
-	>What time is it now?６
+	>What time is it now?
 	>
 	>…… ７<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>１０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>です。
 	>
