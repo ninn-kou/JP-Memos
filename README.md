@@ -2,7 +2,7 @@
 
 Ninn Kou's Japanese Learning Notes.
 
->🌸 <ruby>季<rp>（</rp><rt>すもも</rt><rp>）</rp>も<rp>（</rp><rt></rt><rp>）</rp>桃<rp>（</rp><rt>もも</rt><rp>）</rp>も<rp>（</rp><rt></rt><rp>）</rp>桃<rp>（</rp><rt>もも</rt><rp>）</rp>の<rp>（</rp><rt></rt><rp>）</rp>家<rp>（</rp><rt>うち</rt><rp>）</rp></ruby>。
+>🌸 <ruby>季<rp>（</rp><rt>すもも</rt><rp>）</rp>も <rp>（</rp><rt></rt><rp>）</rp>桃<rp>（</rp><rt>もも</rt><rp>）</rp>も <rp>（</rp><rt></rt><rp>）</rp>桃<rp>（</rp><rt>もも</rt><rp>）</rp>の <rp>（</rp><rt></rt><rp>）</rp>家<rp>（</rp><rt>うち</rt><rp>）</rp></ruby>。
 
 This is Hao Ren's Japanese learning notes for a language learning book called `Minna no Nihongo` that contains Japanese foundation and Youtube tutorial videos. The memo summarizes many Japanese language introductions, words, grammar points, and sentences. Besides, a comprehensive note `Tae Kim's Guide` could be helpful 😁.
 
