@@ -13,6 +13,15 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
 1. [Japanese Phonology & Kana](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/01_Phonology_and_Kana.md)
 2. [Kanji & Furigana](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/02_Kanji_and_Furigana.md)
 3. [Basic Grammar](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/03_Basic_Grammar.md) ✨
+    - [Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)
+    - [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)
+    - [Lesson 3](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_03_Grammar.md)
+    - [Lesson 4](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_04_Grammar.md)
+    - [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md)
+    - [Lesson 6](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_06_Grammar.md)
+    - [Lesson 7](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_07_Grammar.md)
+    - [Lesson 8](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_08_Grammar.md)
+    - [Lesson 9](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_09_Grammar.md)
 
 ## Youtube Videos
 
