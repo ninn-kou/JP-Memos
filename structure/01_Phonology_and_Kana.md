@@ -58,34 +58,34 @@ This above table is used to write sounds which are not original Japanese sounds 
 
 <span id= "04">**「っ」is one more mora long and appears before sounds from the「か-row」「さ-row」「な-row」.**</span>
 
->The sokuon is a Japanese symbol in the form of a small hiragana or katakana tsu. In less formal language it is called chiisai tsu (小さいつ) or chiisana tsu (小さなつ), meaning "small tsu".[1] It serves multiple purposes in Japanese writing.
+> The sokuon is a Japanese symbol in the form of a small hiragana or katakana tsu. In less formal language it is called chiisai tsu (小さいつ) or chiisana tsu (小さなつ), meaning "small tsu".[1] It serves multiple purposes in Japanese writing.
 
 ## [<ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/長音)<sup>JP-Wiki</sup>
 
 <span id= "02">The five vowels sounds mentioned earlier（あ、い、う、え、お）constitute short vowels in Japanese, but they can be doubled in length to two moras to form long vowels.</span>
 
 - **How to write long vowels in hiragana?**
-	- To lengthen the vowels of the 「あ-column」,「い-column」and「う-column」, add 「あ」,「い」or「う」respectively.
-	- To lengthen the vowels of the 「え-column」, add「い」.
-	- To lengthen the vowels of the 「お-column」, add「う」.
+  - To lengthen the vowels of the 「あ-column」,「い-column」and「う-column」, add 「あ」,「い」or「う」respectively.
+  - To lengthen the vowels of the 「え-column」, add「い」.
+  - To lengthen the vowels of the 「お-column」, add「う」.
 - **How to write long vowels in katakana?**
-	- To lengthen the vowels in katakana, add「ー」.
+  - To lengthen the vowels in katakana, add「ー」.
 
->Vowels have a phonemic length contrast (i.e. short vs. long). Compare contrasting pairs of words like ojisan /ozisaN/ 'uncle' vs. ojiisan /oziisaN/ 'grandfather', or tsuki /tuki/ 'moon' vs. tsūki /tuuki/ 'airflow'.
->
->Some analyses make a distinction between a long vowel and a succession of two identical vowels, citing pairs such as 砂糖屋 satōya 'sugar shop' [satoːja] vs. 里親 satooya 'foster parent' [satooja]. They are usually identical in normal speech, but when enunciated a distinction may be made with a pause or a glottal stop inserted between two identical vowels.
+> Vowels have a phonemic length contrast (i.e. short vs. long). Compare contrasting pairs of words like ojisan /ozisaN/ 'uncle' vs. ojiisan /oziisaN/ 'grandfather', or tsuki /tuki/ 'moon' vs. tsūki /tuuki/ 'airflow'.
+> Some analyses make a distinction between a long vowel and a succession of two identical vowels, citing pairs such as 砂糖屋 satōya 'sugar shop' [satoːja] vs. 里親 satooya 'foster parent' [satooja]. They are usually identical in normal speech, but when enunciated a distinction may be made with a pause or a glottal stop inserted between two identical vowels.
 
 ## [<ruby>撥<rp>（</rp><rt>はつ</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/ん)<sup>JP-Wiki</sup>
 
 <span id= "03">To make it easier to say, it is pronounced **/n/, /m/, /ƞ/** according to the sound that comes after it.</span>
 
->The kana is followed by an apostrophe in some systems of transliteration whenever it precedes a vowel or a y- kana, so as to prevent confusion with other kana. However, like every other kana, it represents an entire mora, so its pronunciation is, in practice, as close to "nn" as "n". The pronunciation can also change depending on what sounds surround it. These are a few of the ways it can change:
->- n - (before n, t, d, r, ts, z, ch and j )
->- m - (before m, p and b )
->- ŋ - (before k and g)
->- ɴ - (at the end of utterances)
->- ũ͍ - (before vowels, palatal approximants (y), consonants h, f, s, sh and w)
->- ĩ - (after the vowel i if another vowel, palatal approximant or consonant f, s, sh, h or w follows.)
+> The kana is followed by an apostrophe in some systems of transliteration whenever it precedes a vowel or a y- kana, so as to prevent confusion with other kana. However, like every other kana, it represents an entire mora, so its pronunciation is, in practice, as close to "nn" as "n". The pronunciation can also change depending on what sounds surround it. These are a few of the ways it can change:
+
+> - n - (before n, t, d, r, ts, z, ch and j )
+> - m - (before m, p and b )
+> - ŋ - (before k and g)
+> - ɴ - (at the end of utterances)
+> - ũ͍ - (before vowels, palatal approximants (y), consonants h, f, s, sh and w)
+> - ĩ - (after the vowel i if another vowel, palatal approximant or consonant f, s, sh, h or w follows.)
 
 ## Others
 
@@ -102,16 +102,17 @@ This above table is used to write sounds which are not original Japanese sounds 
 <span id= "08">The Japanese language has pitch accent; this is, some moras in a **word are pronounced high and others low**. There are four types of accent, and the meaning of a word changes according to how it is accented.</span>
 
 - Types of accent
-	- Flat (the pitch does not drop)
-	- Beginning high (the pitch drops after the first mora)
-	- Middle high (the pitch drops after the second mora)
-	- Ending high (the pitch drops after the last mora)
+  - Flat (the pitch does not drop)
+  - Beginning high (the pitch drops after the first mora)
+  - Middle high (the pitch drops after the second mora)
+  - Ending high (the pitch drops after the last mora)
 
 ### Intonation
 
 <span id= "09">There are three patterns of intonation in Japanese:
-	- flat
-	- rising, and
-	- falling.
+
+- flat
+- rising, and
+- falling.
 
 Questions are pronounced with **a rising intonation**.</span>

@@ -10,9 +10,11 @@ Here is a markup example for the Ruby character in HTML.
 
 `Ruby character`: <ruby>東<rp>（</rp><rt>とう</rt><rp>）</rp>京<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>
 
-	<ruby>
-	東<rp>（</rp><rt>とう</rt><rp>）</rp>
-	京<rp>（</rp><rt>きょう</rt><rp>）</rp>
-	</ruby>
+```html
+<ruby>
+東<rp>（</rp><rt>とう</rt><rp>）</rp>
+京<rp>（</rp><rt>きょう</rt><rp>）</rp>
+</ruby>
+```
 
->Furigana is a Japanese reading aid, consisting of smaller kana or syllabic characters, printed next to a kanji (ideographic character) or other character to indicate its pronunciation. It is one type of `ruby` text. Furigana is also known as yomigana (読み仮名) or rubi (ルビ) in Japanese. 
+> Furigana is a Japanese reading aid, consisting of smaller kana or syllabic characters, printed next to a kanji (ideographic character) or other character to indicate its pronunciation. It is one type of `ruby` text. Furigana is also known as yomigana (読み仮名) or rubi (ルビ) in Japanese.
