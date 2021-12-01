@@ -1,4 +1,4 @@
-# JP-Memos
+## JP-Memos
 
 Ninn Kou's Japanese Learning Notes.
 
@@ -8,7 +8,7 @@ TODO: Make the "3. Basic Grammar" as the main part of Japanese learning notes. M
 
 This is Hao Ren's Japanese learning notes for a language learning book called `Minna no Nihongo` that contains Japanese foundation and Youtube tutorial videos. The memo summarizes many Japanese language introductions, words, grammar points, and sentences. Besides, a comprehensive note `Tae Kim's Guide` could be helpful 😁.
 
-## Contents
+### Contents
 
 1. [Japanese Phonology & Kana](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/01_Phonology_and_Kana.md)
 2. [Kanji & Furigana](https://github.com/flying-yogurt/JP-Memos/blob/master/structure/02_Kanji_and_Furigana.md)
@@ -23,13 +23,13 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
     - [Lesson 8](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_08_Grammar.md)
     - [Lesson 9](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_09_Grammar.md)
 
-## Youtube Videos
+### Youtube Videos
 
 - [Minna No Nihongo Grammar](https://www.youtube.com/playlist?list=PLag_mhJfCJ-18WyYoklCPxIpYbeRgmWLJ)
 - [Minna No Nihongo Vocabulary](https://www.youtube.com/playlist?list=PLag_mhJfCJ-038RtKIdpE4KSi4t-Z98UT)
 - [标准日本語（初級）](https://www.youtube.com/playlist?list=PL7D012D6DC2C145D7)
 
-## Resources
+### Resources
 
 - [Learn Japanese Online](http://j-learning.com)
 - [Minna No Nihongo – Collection of 50 lessons with vocabulary and grammars](http://wordgrammar.net/minna-no-nihongo-collection-of-50-lessons-with-vocabulary-and-grammars/)
@@ -37,6 +37,6 @@ This is Hao Ren's Japanese learning notes for a language learning book called `M
 - [Tae Kim's Guide to Learning Japanese](http://www.guidetojapanese.org/learn/)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
 
-## License
+### License
 
 Ninn Kou's Japanese Learning Notes is released under the MIT license.

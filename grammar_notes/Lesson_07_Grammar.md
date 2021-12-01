@@ -1,6 +1,6 @@
-## [Lesson 7](https://www.youtube.com/watch?v=O47kv14SxDk)<sup>Youtube</sup>
+### [Lesson 7](https://www.youtube.com/watch?v=O47kv14SxDk)<sup>Youtube</sup>
 
-### 7.1 N(tool/means) で V
+#### 7.1 N(tool/means) で V
 
 The particle で indicates a method or means used for an action.
 
@@ -10,7 +10,7 @@ The particle で indicates a method or means used for an action.
 > <ruby>日<rp>（</rp><rt>に</rt><rp>）</rp>本<rp>（</rp><rt>ほん</rt><rp>）</rp>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>で レポートを <ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>きます。
 > I am going to write the report in Japanese.
 
-### 7.2 'Word/Sentence' は 〜<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか
+#### 7.2 'Word/Sentence' は 〜<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか
 
 This question is used to ask how to say a word or sentence in another language.
 
@@ -24,7 +24,7 @@ This question is used to ask how to say a word or sentence in another language.
 > …… 「ありがとう」です。
 > …… It's 'ありがとう'.
 
-### 7.3 N<sub>1</sub>(person) に N<sub>2</sub> を あげます, etc
+#### 7.3 N<sub>1</sub>(person) に N<sub>2</sub> を あげます, etc
 
 Verbs like あげます, かします and おしえます indicate imparting things or information, so they must be used with a noun saying to whom those things or information are imparted. The particle に is used to denote the recipient.
 
@@ -37,7 +37,7 @@ Verbs like あげます, かします and おしえます indicate imparting thi
 > ［わたしは］<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp>田<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>さんに <ruby>英<rp>（</rp><rt>えい</rt><rp>）</rp>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>を <ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えます。
 > I teach Mr.Yamada English.
 
-### 7.4 N<sub>1</sub>(person) に N<sub>2</sub> を もらいます, etc
+#### 7.4 N<sub>1</sub>(person) に N<sub>2</sub> を もらいます, etc
 
 Verbs like もらいます, かります and ならいます indicate receiving things or information, so they are used with a noun indicating the person from whom those things or information are received. The particle に is used to denote that person.
 
@@ -58,7 +58,7 @@ Verbs like もらいます, かります and ならいます indicate receiving 
 > <ruby>銀<rp>（</rp><rt>ぎん</rt><rp>）</rp>行<rp>（</rp><rt>こう</rt><rp>）</rp></ruby>から お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を <ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りました。
 > I borrowed some money from the bank.
 
-### 7.5 もう V ました
+#### 7.5 もう V ました
 
 もう means 'already' and is used with **V** ました. In this case, **V** ました means that the action has been completed.
 
@@ -77,7 +77,7 @@ The answer to the question もう **V** ましたか as to whether an action has
 > …… いいえ、まだです。
 > …… No, not yet.
 
-### 7.6 Omission of particles
+#### 7.6 Omission of particles
 
 Particles are often omitted in informal speech when the relationships between the parts of speech before and after them are obvious.
 

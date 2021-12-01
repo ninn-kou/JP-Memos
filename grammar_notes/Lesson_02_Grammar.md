@@ -1,6 +1,6 @@
-## [Lesson 2](https://www.youtube.com/watch?v=9EfbkBkF2ag)<sup>Youtube</sup>
+### [Lesson 2](https://www.youtube.com/watch?v=9EfbkBkF2ag)<sup>Youtube</sup>
 
-### 2.1 これ／それ／あれ
+#### 2.1 これ／それ／あれ
 
 これ, それ and あれ are demonstratives and work as noun.
 
@@ -14,7 +14,7 @@
 > これは <ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>の <ruby>傘<rp>（</rp><rt>かさ</rt><rp>）</rp></ruby>ですが。
 > Whose umbrella is this?
 
-### 2.2 この N／その N／あの N
+#### 2.2 この N／その N／あの N
 
 これ, それ and あれ modify nouns.
 
@@ -24,7 +24,7 @@
 > あの<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は どなたですか。
 > Who is that [person]?
 
-### 2.3 そうです
+#### 2.3 そうです
 
 In a noun sentence, the word そう is often used to answer (in the affirmative) a question requiring an affirmative or negative answer. The expression はい、そうです can be used.
 
@@ -45,7 +45,7 @@ In a noun sentence, the word そう is often used to answer (in the affirmative)
 > …… いいえ、ポールペンです。
 > …… No, it's a ballpoint pen.
 
-### 2.4 ～か、～か
+#### 2.4 ～か、～か
 
 This is a question asking the listener to choose between two or more alternatives for the answer. In answering this type of question, it is usual to state the chosen alternative, without saying はい nor いいえ.
 
@@ -54,21 +54,21 @@ This is a question asking the listener to choose between two or more alternative
 > …… 「９」です。
 > …… It's a 9.
 
-### 2.5 N<sub>1</sub> の N<sub>2</sub>
+#### 2.5 N<sub>1</sub> の N<sub>2</sub>
 
 It was explained in the previous lesson that の is used to connect two nouns **N<sub>1</sub>** and **N<sub>2</sub>** when **N<sub>1</sub>** modifies **N<sub>2</sub>** ([see Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)). The present lesson explains some other uses of の.
 
-#### 2.5.1 N<sub>1</sub> explains what N<sub>2</sub> is about
+##### 2.5.1 N<sub>1</sub> explains what N<sub>2</sub> is about
 
 > これは コンピューターの <ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>です。
 > This is a book on computers.
 
-#### 2.5.2 N<sub>1</sub> indicates who owns N<sub>2</sub>
+##### 2.5.2 N<sub>1</sub> indicates who owns N<sub>2</sub>
 
 > これは わたしの <ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>です。
 > This is my book.
 
-### 2.6 の substituting for a noun
+#### 2.6 の substituting for a noun
 
 の can be used instead of a noun that has already been mentioned (e.g. instead of かばん in the first example). If placed after the noun (as in the first example, where it comes after the noun さとうさん), it enables **N<sub>2</sub>** (かばん) in **N<sub>1</sub>** の **N<sub>2</sub>** (さとうさんの かばん) to be omitted. の is used as a replacement for things but not for people.
 
@@ -88,11 +88,11 @@ It was explained in the previous lesson that の is used to connect two nouns **
 > …… Yes, he does.
 > **❌ …… はい、IMC のです。**
 
-### 2.7 お～
+#### 2.7 お～
 
 The prefix お is attached to words when the speaker is speaking politely (e.g. ［お］みやげ、［お］さけ).
 
-### 2.8 そうですか
+#### 2.8 そうですか
 
 This expression is used by the speaker to acknowledge some new information he or she has just been given. It is pronounced with a falling intonation.
 

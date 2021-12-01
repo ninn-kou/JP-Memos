@@ -1,11 +1,11 @@
-# Basic Grammar
+## Basic Grammar
 
 Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some summarize was added by me in the learning process. You can click links like `Lesson 1` to obtain grammar explanations. *Any file in this Repo is just for personal learning and review.* You can get more information about this book or purchase it from below official pages:
 
 - [Amazon Australia - Minna No Nihongo](https://www.amazon.com.au/Minna-No-Nihongo/dp/4883191028)
 - [3A Corporation](https://www.3anet.co.jp/en/)
 
-## [Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)
+### [Lesson 1](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_01_Grammar.md)
 
 1. **N<sub>1</sub>** は **N<sub>2</sub>** です
 2. **N<sub>1</sub>** は **N<sub>2</sub>** じゃ（では）ありません
@@ -14,7 +14,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. **N<sub>1</sub>** の **N<sub>2</sub>**
 6. 〜さん
 
-## [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)
+### [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)
 
 1. これ／それ／あれ
 2. この **N**／その **N**／あの **N**
@@ -25,7 +25,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 7. お〜
 8. そうですか
 
-## [Lesson 3](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_03_Grammar.md)
+### [Lesson 3](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_03_Grammar.md)
 
 1. ここ／そこ／あそこ／こちら／そちら／あちら
 2. **N<sub>1</sub>** は **N<sub>2</sub>(place)** です
@@ -34,7 +34,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. The こ／そ／あ／ど system of demonstratives
 6. お〜
 
-## [Lesson 4](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_04_Grammar.md)
+### [Lesson 4](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_04_Grammar.md)
 
 1. <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> ー<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ー<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>です
 2. **V** ます／**V** ません／**V** ました／**V** ませんでした
@@ -43,7 +43,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. **N<sub>1</sub>** と **N<sub>2</sub>**
 6. 〜ね
 
-## [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md)
+### [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md)
 
 1. **N(place)** へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
 2. どこ［へ］も <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きません／<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きせんでした
@@ -53,7 +53,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 6. 〜よ
 7. そうですね
 
-## [Lesson 6](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_06_Grammar.md)
+### [Lesson 6](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_06_Grammar.md)
 
 1. **N** を **V(transitive)**
 2. **N** を します
@@ -64,7 +64,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 7. **V** ましょう
 8. 〜か
 
-## [Lesson 7](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_07_Grammar.md)
+### [Lesson 7](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_07_Grammar.md)
 
 1. **N(tool/means)** で **V**
 2. 'Word/Sentence' は 〜<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか
@@ -73,7 +73,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 5. もう **V** ました
 6. Omission of particles
 
-## [Lesson 8](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_08_Grammar.md)
+### [Lesson 8](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_08_Grammar.md)
 
 1. **Adjectives**
 2. **N** は **な-adj**［~な~］です<br>**N** は **い-adj**（〜い）です
@@ -84,7 +84,7 @@ Here is a grammar list which is based on the `Minna no Nihongo`. Besides, some s
 7. **N<sub>1</sub>** は どんな **N<sub>2</sub>** ですか
 8. そうですね
 
-## [Lesson 9](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_09_Grammar.md)
+### [Lesson 9](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_09_Grammar.md)
 
 1. **N** が あります／わかります<br>**N** が <ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きです／<ruby>嫌<rp>（</rp><rt>きら</rt><rp>）</rp></ruby>いです／<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>です／<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>です
 2. どんな **N**

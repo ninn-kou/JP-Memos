@@ -1,6 +1,6 @@
-## [Lesson 5](https://www.youtube.com/watch?v=QPOrt1BQm-g)<sup>Youtube</sup>
+### [Lesson 5](https://www.youtube.com/watch?v=QPOrt1BQm-g)<sup>Youtube</sup>
 
-### 5.1 N(place) へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
+#### 5.1 N(place) へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
 
 When a verb indicates movement to a certain place, the particle へ is put after the place noun to show the direction of the movement.
 
@@ -15,7 +15,7 @@ When a verb indicates movement to a certain place, the particle へ is put after
 
 **[Note] The particle へ is read え.**
 
-### 5.2 どこ[へ]も <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きません／<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きせんでした
+#### 5.2 どこ[へ]も <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きません／<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きせんでした
 
 When you want to deny everything covered by an interrogative, you can attach the particle も to the interrogative and put the verb in its negative form.
 
@@ -28,7 +28,7 @@ When you want to deny everything covered by an interrogative, you can attach the
 > だれも <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ませんでした。
 > Nobody came.
 
-### 5.3 N(vehicle) で <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
+#### 5.3 N(vehicle) で <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます／<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます／<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります
 
 The particle で indicates a means or a method. The speaker attaches it after a noun representing a vehicle and uses it together with a movement verb to indicate his or her means of transport.
 
@@ -43,7 +43,7 @@ When talking about walking somewhere, the speaker uses the expression あるい�
 > <ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>から <ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>いて <ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。
 > I walked home from the station.
 
-### 5.4 N(person/animal) と V
+#### 5.4 N(person/animal) と V
 
 When talking about doing something with a person or an animal, the person or animal is marked with the particle と.
 
@@ -55,7 +55,7 @@ If doing something by oneself, the expression ひとりで is used. In this case
 > <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で <ruby>東<rp>（</rp><rt>とう</rt><rp>）</rp>京<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 > I am going to Tokyo on my own.
 
-### 5.5 いつ
+#### 5.5 いつ
 
 To ask about time, interrogatives using なん, such as なんじ, なんようび, なんがつ, なんにち are used. The interrogative いつ (when) is also used to ask when something will happen or happened. いつ does not take the particle に.
 
@@ -69,7 +69,7 @@ To ask about time, interrogatives using なん, such as なんじ, なんよう�
 > …… <ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby> <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 > …… [I am going] next week.
 
-### 5.6 〜よ
+#### 5.6 〜よ
 
 The particle よ is placed at the end of a sentence. It is used to emphasise information which the listener does not know, or to show the speaker is giving his/her judgement or views assertively.
 
@@ -84,7 +84,7 @@ The particle よ is placed at the end of a sentence. It is used to emphasise inf
 > マリアさん、この アイスクリーム、おいしいですよ。
 > Maria, this ice cream is very nice, you know. (See [Lesson 19](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_19_Grammar.md).)
 
-### 5.7 そうですね
+#### 5.7 そうですね
 
 The expression そうですね is used to express sympathy or agreement with what the speaker has said. It is similar to the expression そうですか (see [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)), but while そうですか is used by a speaker to acknowledge the receipt of some new information, そうですね is used to show sympathy or agreement with something the speaker already knew.
 

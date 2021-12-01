@@ -1,8 +1,8 @@
-## [Lesson 1](https://www.youtube.com/watch?v=gi2AeYO-g8E)<sup>Youtube</sup>
+### [Lesson 1](https://www.youtube.com/watch?v=gi2AeYO-g8E)<sup>Youtube</sup>
 
-### 1.1 N<sub>1</sub> は N<sub>2</sub> です
+#### 1.1 N<sub>1</sub> は N<sub>2</sub> です
 
-#### 1.1.1 Particle は
+##### 1.1.1 Particle は
 
 The particle は indicates that the noun before it (**N<sub>1</sub>**) is the topic of the sentence. The speaker forms a sentence by adding は to what he or she wants to talk about, and then makes statements about it.
 
@@ -11,14 +11,14 @@ The particle は indicates that the noun before it (**N<sub>1</sub>**) is the to
 
 **[Note] The particle は is read わ.**
 
-#### 1.1.2 です
+##### 1.1.2 です
 
 Nouns used with です work as predicates. Besides indicating judgement or assertion, です also shows politeness towards the listener. です inflects when the sentence is negative or in the past tense (see [Lesson 12](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_12_Grammar.md)).
 
 > <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は <ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。
 > I am a company employee.
 
-### 1.2 N<sub>1</sub> は N<sub>2</sub> じゃ（では）ありません
+#### 1.2 N<sub>1</sub> は N<sub>2</sub> じゃ（では）ありません
 
 じゃ（では）ありません is the negative form of です. じゃ ありません is often used in everyday conversation. while では ありません is used in formal speech and writing.
 
@@ -27,13 +27,13 @@ Nouns used with です work as predicates. Besides indicating judgement or asser
 
 **[Note] The は in では is read わ.**
 
-### 1.3 N<sub>1</sub> は N<sub>2</sub> ですか (question)
+#### 1.3 N<sub>1</sub> は N<sub>2</sub> ですか (question)
 
-#### 1.3.1 Particle か
+##### 1.3.1 Particle か
 
 The particle か is used o express the uncertainty, doubt, question, etc. A question is formed by simply adding か to the end of the sentence. A question usually ends with a rising intonation.
 
-#### 1.3.2 Questions asking whether a statement is correct or not
+##### 1.3.2 Questions asking whether a statement is correct or not
 
 The type of question is formed simply by adding か to the end of the statement, leaving the word order the same. The reply begins with はい if the statement is agreed with, and いいえ if it is disagreed with.
 
@@ -47,7 +47,7 @@ The type of question is formed simply by adding か to the end of the statement,
 > …… いいえ、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>じゃ ありません。
 > …… No, he is not [a teacher].
 
-#### 1.3.3 Question with interrogatives
+##### 1.3.3 Question with interrogatives
 
 An interrogative replaces the part of the sentence that covers what you want to ask about. The word order does not change, and か is added at the end.
 
@@ -56,7 +56,7 @@ An interrogative replaces the part of the sentence that covers what you want to 
 > …… ［あの <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>は］ミラーさんです。
 > …… That’s Mr.Miller.
 
-### 1.4 N も
+#### 1.4 N も
 
 も is used when the same thing applies as was stated previously.
 
@@ -65,14 +65,14 @@ An interrogative replaces the part of the sentence that covers what you want to 
 > グプタさんも <ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。
 > Mr.Gupta is also a company employee.
 
-### 1.5 N<sub>1</sub> の N<sub>2</sub>
+#### 1.5 N<sub>1</sub> の N<sub>2</sub>
 
 When a noun **N<sub>1</sub>** modifies a following noun **N<sub>2</sub>**, の is used to connect the two nouns. In Lesson 1, **N<sub>1</sub>** is an organization or some kind of group to which **N<sub>2</sub>** belongs.
 
 > ミラーさんは IMC の <ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。
 > Mr.Miller is an IMC employee.
 
-### 1.6 ～さん
+#### 1.6 ～さん
 
 さん is added to the given name or family name of the listener or a third person to show the speaker’s respect to that person. It should never be used with the speaker’s own name. ちゃん is add to small children's name instead of さん to indicate familiarity.
 

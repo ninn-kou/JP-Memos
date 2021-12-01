@@ -1,6 +1,6 @@
-## [Lesson 6](https://www.youtube.com/watch?v=Zocvund8ypA)<sup>Youtube</sup>
+### [Lesson 6](https://www.youtube.com/watch?v=Zocvund8ypA)<sup>Youtube</sup>
 
-### 6.1 N を V(transitive)
+#### 6.1 N を V(transitive)
 
 The particle を is used to indicate the direct object of a transitive verb.
 
@@ -9,7 +9,7 @@ The particle を is used to indicate the direct object of a transitive verb.
 
 **[Note] を is used only in writing the particle.**
 
-### 6.2 N を します
+#### 6.2 N を します
 
 A fairly wide range of nouns are used as the objects of the verb します, which means that the action denoted by the noun is performed. Some examples are shown below.
 
@@ -40,7 +40,7 @@ A fairly wide range of nouns are used as the objects of the verb します, whic
 > <ruby>電<rp>（</rp><rt>でん</rt><rp>）</rp>話<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>を します
 > call, phone
 
-### 6.3 <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を しますか
+#### 6.3 <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を しますか
 
 This is a question to ask about someone's actions.
 
@@ -54,7 +54,7 @@ This is a question to ask about someone's actions.
 > …… サッカーを しました。
 > …… I played soccer.
 
-### 6.4 なん and なに
+#### 6.4 なん and なに
 
 Both なん and なに mean 'what'.
 
@@ -91,14 +91,14 @@ Both なん and なに mean 'what'.
   ><ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を <ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いますか。
   >What are you going to buy?
 
-### 6.5 N(place) で V
+#### 6.5 N(place) で V
 
 When add after a noun denoting a place, the particle で indicates the occurrence of an action in that place.
 
 > <ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で <ruby>新<rp>（</rp><rt>しん</rt><rp>）</rp>聞<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>を <ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>います。
 > I am going to buy a paper at the station.
 
-### 6.6 V ませんか
+#### 6.6 V ませんか
 
 This expression is used when the speaker wants to invite someone to do something.
 
@@ -107,7 +107,7 @@ This expression is used when the speaker wants to invite someone to do something
 > …… ええ、いいですね。
 > …… Yes, that's a nice idea.
 
-### 6.7 V ましょう
+#### 6.7 V ましょう
 
 This expression is used when a speaker is positively inviting the listener to do something with the speaker. It is also used when responding positively to an invitation.
 
@@ -121,7 +121,7 @@ This expression is used when a speaker is positively inviting the listener to do
 
 **[Note] V ませんか and V ましょう are both used to invite someone to do something, but V ませんか shows that the speaker is giving more consideration to what the listener might want than V ましょう.**
 
-### 6.8 〜か
+#### 6.8 〜か
 
 か indicates that the listener has received and accept some new information. It is used in the same way as the か in そうですか (see [Lesson 2](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_02_Grammar.md)).
 

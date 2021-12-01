@@ -1,6 +1,6 @@
-## [Lesson 4](https://www.youtube.com/watch?v=BQkKnypu8f0)<sup>Youtube</sup>
+### [Lesson 4](https://www.youtube.com/watch?v=BQkKnypu8f0)<sup>Youtube</sup>
 
-### 4.1 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> ー<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ー<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>です
+#### 4.1 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> ー<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ー<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>です
 
 To express time, the counter suffixes <ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>(o'clock) and <ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>(minutes) are placed after the numbers.
 
@@ -14,7 +14,7 @@ To express time, the counter suffixes <ruby>時<rp>（</rp><rt>じ</rt><rp>）</
 > …… ７<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>１０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>です。
 > …… It's 7:10.
 
-### 4.2 V ます／V ません／V ました／V ませんでした
+#### 4.2 V ます／V ません／V ました／V ませんでした
 
 **V** ます works as a predicate. Using ます shows politeness toward the listener.
 
@@ -51,7 +51,7 @@ Verb question sentences are formed by putting か at the end of sentence, withou
 > …… ６<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きます。
 > …… [I get up at] six o'clock.
 
-### 4.3 N(time)に V
+#### 4.3 N(time)に V
 
 The particle に is appended to a noun indicating time to indicate the time of occurence of an action.
 
@@ -71,7 +71,7 @@ The particle に is appended to a noun indicating time to indicate the time of o
 > <ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>に <ruby>奈良<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。
 > I am going to Nara on Sunday. (See [Lesson 5](https://github.com/flying-yogurt/JP-Memos/blob/master/grammar_notes/Lesson_05_Grammar.md).)
 
-### 4.4 N<sub>1</sub> から <sub>2</sub> まで
+#### 4.4 N<sub>1</sub> から <sub>2</sub> まで
 
 から indicates a starting time or place, and まで indicates the finishing time or place.
 
@@ -94,14 +94,14 @@ To indicate the starting or finishing time/date of a noun introduced as a topic,
 > <ruby>昼<rp>（</rp><rt>ひる</rt><rp>）</rp>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みは １２<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>からです。
 > The lunch break starts at 12.
 
-### 4.5 N<sub>1</sub> と N<sub>2</sub>
+#### 4.5 N<sub>1</sub> と N<sub>2</sub>
 
 The particle と connects two nouns in coordinated relation.
 
 > <ruby>銀<rp>（</rp><rt>ぎん</rt><rp>）</rp>行<rp>（</rp><rt>こう</rt><rp>）</rp></ruby> <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みは <ruby>土<rp>（</rp><rt>ど</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>と <ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp>曜<rp>（</rp><rt>よう</rt><rp>）</rp>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>です。
 > The bank is closed on Saturdays and Sundays.
 
-### 4.6 〜ね
+#### 4.6 〜ね
 
 The particle ね is attached to the end of a sentence and is used to elicit agreement from the listener, check that the listener has understood, or emphasize something to the listener.
 

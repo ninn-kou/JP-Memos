@@ -1,4 +1,4 @@
-# Japanese Phonology & Kana
+## Japanese Phonology & Kana
 
 1. [Kana and Mora](#01)
 2. [Long vowels](#02)
@@ -10,7 +10,7 @@
 8. [Accent](#08)
 9. [Intonation](#09)
 
-## <ruby>仮<rp>（</rp><rt>か</rt><rp>）</rp>名<rp>（</rp><rt>な</rt><rp>）</rp></ruby>
+### <ruby>仮<rp>（</rp><rt>か</rt><rp>）</rp>名<rp>（</rp><rt>な</rt><rp>）</rp></ruby>
 
 <span id= "01">The Japanese language is basded on **five vowel sounds**: あ, い, う, え and お, which are **used alone** or **attached to either a constant** (e.g. k + a = か) or to a constant plus the semi-vowel 'y' (e.g. k + y + a = きゃ) (the only exception being a special mora, ん, which is not followed by a vowel).</span>
 
@@ -54,13 +54,13 @@
 
 This above table is used to write sounds which are not original Japanese sounds **but are needed for use in loanwords**.
 
-## [<ruby>促<rp>（</rp><rt>そく</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/促音)<sup>JP-Wiki</sup>
+### [<ruby>促<rp>（</rp><rt>そく</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/促音)<sup>JP-Wiki</sup>
 
 <span id= "04">**「っ」is one more mora long and appears before sounds from the「か-row」「さ-row」「な-row」.**</span>
 
 > The sokuon is a Japanese symbol in the form of a small hiragana or katakana tsu. In less formal language it is called chiisai tsu (小さいつ) or chiisana tsu (小さなつ), meaning "small tsu".[1] It serves multiple purposes in Japanese writing.
 
-## [<ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/長音)<sup>JP-Wiki</sup>
+### [<ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/長音)<sup>JP-Wiki</sup>
 
 <span id= "02">The five vowels sounds mentioned earlier（あ、い、う、え、お）constitute short vowels in Japanese, but they can be doubled in length to two moras to form long vowels.</span>
 
@@ -74,7 +74,7 @@ This above table is used to write sounds which are not original Japanese sounds 
 > Vowels have a phonemic length contrast (i.e. short vs. long). Compare contrasting pairs of words like ojisan /ozisaN/ 'uncle' vs. ojiisan /oziisaN/ 'grandfather', or tsuki /tuki/ 'moon' vs. tsūki /tuuki/ 'airflow'.
 > Some analyses make a distinction between a long vowel and a succession of two identical vowels, citing pairs such as 砂糖屋 satōya 'sugar shop' [satoːja] vs. 里親 satooya 'foster parent' [satooja]. They are usually identical in normal speech, but when enunciated a distinction may be made with a pause or a glottal stop inserted between two identical vowels.
 
-## [<ruby>撥<rp>（</rp><rt>はつ</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/ん)<sup>JP-Wiki</sup>
+### [<ruby>撥<rp>（</rp><rt>はつ</rt><rp>）</rp>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/ん)<sup>JP-Wiki</sup>
 
 <span id= "03">To make it easier to say, it is pronounced **/n/, /m/, /ƞ/** according to the sound that comes after it.</span>
 
@@ -87,17 +87,17 @@ This above table is used to write sounds which are not original Japanese sounds 
 > - ũ͍ - (before vowels, palatal approximants (y), consonants h, f, s, sh and w)
 > - ĩ - (after the vowel i if another vowel, palatal approximant or consonant f, s, sh, h or w follows.)
 
-## Others
+### Others
 
-### Pronunciation of が-row
+#### Pronunciation of が-row
 
 <span id= "06">The consonants of the が-row pronounced [g] when they fall at the beginning of a word, and [ƞ] when they fall elsewhere. *However, some people these days make no distinction between these two sounds and pronounced them [g] wherever they fall.*</span>
 
-### Devoicing of vowels
+#### Devoicing of vowels
 
 <span id= "07">The final vowel [u] of「〜です」and「〜ます」also tends to be silent (e.g. <u>し</u>たいで<u>す</u> want to do, <u>き</u>きま<u>す</u> listen).</span>
 
-### Accent
+#### Accent
 
 <span id= "08">The Japanese language has pitch accent; this is, some moras in a **word are pronounced high and others low**. There are four types of accent, and the meaning of a word changes according to how it is accented.</span>
 
@@ -107,7 +107,7 @@ This above table is used to write sounds which are not original Japanese sounds 
   - Middle high (the pitch drops after the second mora)
   - Ending high (the pitch drops after the last mora)
 
-### Intonation
+#### Intonation
 
 <span id= "09">There are three patterns of intonation in Japanese:
 
